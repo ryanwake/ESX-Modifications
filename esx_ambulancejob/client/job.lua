@@ -1,3 +1,7 @@
+local blipsEms = {}
+
+------
+
 -- Create blip for colleagues
 function createBlip(id, job)
 	local ped = GetPlayerPed(id)
